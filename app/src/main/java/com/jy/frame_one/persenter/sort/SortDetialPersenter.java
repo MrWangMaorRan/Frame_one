@@ -1,12 +1,13 @@
 package com.jy.frame_one.persenter.sort;
 
-import com.example.kuangjia.base.BasePersenter;
-import com.example.kuangjia.common.CommonSubscriber;
-import com.example.kuangjia.interfaces.sort.SortConstract;
-import com.example.kuangjia.models.HttpManager;
-import com.example.kuangjia.models.bean.SortDetialBean;
-import com.example.kuangjia.models.bean.SortDetialGoodsBean;
-import com.example.kuangjia.utils.RxUtils;
+
+import com.jy.frame_one.base.BasePersenter;
+import com.jy.frame_one.common.CommonSubscriber;
+import com.jy.frame_one.interfaces.sort.SortConstract;
+import com.jy.frame_one.models.HttpManager;
+import com.jy.frame_one.models.bean.SortDetialBean;
+import com.jy.frame_one.models.bean.SortDetialGoodsBean;
+import com.jy.frame_one.utils.RxUtils;
 
 public class SortDetialPersenter extends BasePersenter<SortConstract.DetailView> implements SortConstract.DetailPersenter {
 

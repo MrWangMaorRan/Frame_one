@@ -35,7 +35,7 @@
                 android:id="@+id/my_tv"
                 android:layout_marginLeft="10dp"
                 android:layout_centerVertical="true"
-                android:text="乌拉"
+                android:text="王茂然"
                 android:textColor="@android:color/white"
                 android:textSize="20dp"
                 android:layout_toRightOf="@id/my_iv"

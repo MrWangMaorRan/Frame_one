@@ -9,7 +9,7 @@ import android.net.NetworkInfo;
 import android.os.Build;
 import android.util.DisplayMetrics;
 
-import com.example.kuangjia.apps.MyApp;
+import com.jy.frame_one.appss.MyApp;
 
 
 public class SystemUtils {

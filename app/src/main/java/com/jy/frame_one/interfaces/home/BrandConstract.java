@@ -1,9 +1,5 @@
 package com.jy.frame_one.interfaces.home;
 
-/*import com.example.kuangjia.interfaces.IBasePersenter;
-import com.example.kuangjia.interfaces.IBaseView;
-import com.example.kuangjia.models.bean.BrandBean;
-import com.example.kuangjia.models.bean.BrandGoodsBean;*/
 
 import com.jy.frame_one.interfaces.IBasePersenter;
 import com.jy.frame_one.interfaces.IBaseView;

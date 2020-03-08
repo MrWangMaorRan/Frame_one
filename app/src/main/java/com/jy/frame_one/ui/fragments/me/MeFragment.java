@@ -39,7 +39,7 @@ public class MeFragment extends BaseFragment {
     @Override
     protected void initView() {
         RequestOptions requestOptions = new RequestOptions();
-        Glide.with(getContext()).load(R.mipmap.touxiang).apply(requestOptions.circleCrop()).into(my_iv);
+        Glide.with(getContext()).load(R.mipmap.big).apply(requestOptions.circleCrop()).into(my_iv);
         al = new ArrayList<>();
         initList();
         myRecyAdapter = new MyRecyAdapter(al,context);
